@@ -1,8 +1,8 @@
-# Awesome-algorithm-interview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)   
+# Awesome-algorithm-interview 
 
-> 算法工程师(人工智能cv方向)面试问题及相关资料的网站收集  
+> 人工智能cv方向的最新面试笔试资料集（持续更新中）
 
-[![GitHub stars](https://img.shields.io/github/stars/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Stars)](https://github.com/lcylmhlcy/Awesome-algorithm-interview) [![GitHub forks](https://img.shields.io/github/forks/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Forks)](https://github.com/lcylmhlcy/Awesome-algorithm-interview) [![HitCount](http://hits.dwyl.io/lcylmhlcy/Awesome-algorithm-interview.svg)](http://hits.dwyl.io/lcylmhlcy/Awesome-algorithm-interview)
+[![GitHub stars](https://img.shields.io/github/stars/murufeng/Awesome-AI-algorithm.svg?style=social&label=Stars)](https://github.com/murufeng/Awesome-AI-algorithm) [![GitHub forks](https://img.shields.io/github/forks/murufeng/Awesome-AI-algorithm.svg?style=social&label=Forks)](https://github.com/murufeng/Awesome-AI-algorithm) [![HitCount](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm.svg)](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm)
   
 ## 目录
 - [算法工程师](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#algorithm-engineer)
