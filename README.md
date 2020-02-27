@@ -1,37 +1,37 @@
-# Awesome-algorithm-interview 
+# Awesome-AI-algorithm
 
-> 人工智能cv方向的最新面试笔试资料集（持续更新中）
+> 人工智能cv算法方面的综合资源集（持续更新中）
 
 [![GitHub stars](https://img.shields.io/github/stars/murufeng/Awesome-AI-algorithm.svg?style=social&label=Stars)](https://github.com/murufeng/Awesome-AI-algorithm) [![GitHub forks](https://img.shields.io/github/forks/murufeng/Awesome-AI-algorithm.svg?style=social&label=Forks)](https://github.com/murufeng/Awesome-AI-algorithm) [![HitCount](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm.svg)](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm)
   
-## 目录
-- [算法工程师](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#algorithm-engineer)
-  - [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#1-github)
-  - [牛客网](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#2-nowcoder)
-  - [知乎](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#3-zhihu)
-  - [个人博客](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#4-blog)
-  - [微信公众号](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#5-wechat)
-  - [其它](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#6-others)
-- [机器学习](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#machine-learning)
-  - [面试问题](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#1-interview)
-  - [资料](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#2-documentation)
-  - [代码实战](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#3-code)
-- [深度学习](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#deep-learning)
-  - [面试](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#1-interview-1)
-  - [资料](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#2-documentation-1)
-  - [代码实战 Pytorch](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#3-pytorch-code)
-  - [代码实战 Tensorflow](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#4-tensorflow-code)
-  - [网课](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#5-online-course)
-- [C/C++](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#cc)
-- [Python](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#python)
-- [竞赛/比赛](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#competition)
-- [简历模板](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#resume-template)
-- [其它](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#others)
+## 资料目录
+- [算法面试](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#algorithm-engineer)
+  - [Github](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-github)
+  - [牛客网](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-nowcoder)
+  - [知乎](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-zhihu)
+  - [个人博客](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#4-blog)
+  - [微信公众号](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#5-wechat)
+  - [其它](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#6-others)
+- [机器学习](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#machine-learning)
+  - [面试问题](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-interview)
+  - [资料](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-documentation)
+  - [代码实战](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-code)
+- [深度学习](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#deep-learning)
+  - [面试](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-interview-1)
+  - [资料](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-documentation-1)
+  - [代码实战 Pytorch](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-pytorch-code)
+  - [代码实战 Tensorflow](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#4-tensorflow-code)
+  - [网课](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#5-online-course)
+- [C/C++](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#cc)
+- [Python](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#python)
+- [竞赛/比赛](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#competition)
+- [简历模板](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#resume-template)
+- [其它](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#others)
 
 ---
 ---
 
-## Algorithm Engineer
+## Algorithm Interview
 ### 1. Github
 - 算法/深度学习/NLP面试笔记 [Github](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 - 算法工程师面试 [Github](https://github.com/PPshrimpGo/AIinterview)
