@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/murufeng/Awesome-AI-algorithm.svg?style=social&label=Stars)](https://github.com/murufeng/Awesome-AI-algorithm) [![GitHub forks](https://img.shields.io/github/forks/murufeng/Awesome-AI-algorithm.svg?style=social&label=Forks)](https://github.com/murufeng/Awesome-AI-algorithm) [![HitCount](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm.svg)](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm)
   
 ## 资料目录
-- [算法面试](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#algorithm-engineer)
+- [算法面试](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#Algorithm-Interview)
   - [Github](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-github)
   - [牛客网](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-nowcoder)
   - [知乎](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-zhihu)
@@ -13,7 +13,7 @@
   - [微信公众号](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#5-wechat)
   - [其它](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#6-others)
 - [机器学习](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#machine-learning)
-  - [面试问题](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-interview)
+  - [面试](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-interview)
   - [资料](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-documentation)
   - [代码实战](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-code)
 - [深度学习](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#deep-learning)
@@ -25,34 +25,28 @@
 - [C/C++](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#cc)
 - [Python](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#python)
 - [竞赛/比赛](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#competition)
-- [简历模板](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#resume-template)
-- [其它](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#others)
-
 ---
 ---
 
-## Algorithm Interview
+## Algorithm-Interview
 ### 1. Github
-- 算法/深度学习/NLP面试笔记 [Github](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+- 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information)
 - 算法工程师面试 [Github](https://github.com/PPshrimpGo/AIinterview)
+- 算法/深度学习/NLP面试笔记 [Github](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 - 2019届秋招面经集合 [Github](https://github.com/zslomo/2019-Autumn-recruitment-experience)
 - 技术面试必备基础知识 [Github](https://github.com/CyC2018/CS-Notes)
-- AI算法岗求职攻略 [Github](https://github.com/amusi/AI-Job-Notes) [(amusi)](https://github.com/amusi)
 - 阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 [Github](https://github.com/xiaole0310/interview-)
 - 「面试算法练级攻略」-「LeetCode题解」-「剑指offer题解」 [Github](https://github.com/guokaide/algorithm)
 - MVision-awesome [Github](https://github.com/Ewenwan/MVision)
-- 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information)
 - Daily Interview [Github](https://github.com/datawhalechina/Daily-interview)
 - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总 [Github](https://github.com/0voice/interview_internal_reference)
 - CV岗常见面试题 [Github](https://github.com/donnyyou/cv-interview)
 
 
 ### 2. Nowcoder
-- 旷视19届春招-算法研究员-凉经 [nowcoder](https://www.nowcoder.com/discuss/167336)
-- 腾讯算法实习面试总结 [nowcoder](https://www.nowcoder.com/discuss/163996)
-- 春招详细算法面经(旷视/海康/联影等8家公司Offer) [nowcoder](https://www.nowcoder.com/discuss/163388)
-- 普通的算法/机器学习面经 [nowcoder](https://www.nowcoder.com/discuss/61907)
+- 2020届计算机视觉实习生面试经验（腾讯/头条/商汤/旷视/达摩院等） [nowcoder](https://www.nowcoder.com/discuss/159266)
 - 20届-视觉算法-暑期实习 [nowcoder](https://www.nowcoder.com/discuss/173292)
+- 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)
 - 字节跳动实习算法岗面经 [nowcoder](https://www.nowcoder.com/discuss/174565)
 - 阿里腾讯虎牙机器学习算法面经 [nowcoder](https://www.nowcoder.com/discuss/175759)
 - 字节跳动图形图像算法实习面经 [nowcoder](https://www.nowcoder.com/discuss/178153)
@@ -63,56 +57,23 @@
 - 小菜鸡的算法实习面经 [nowcoder](https://www.nowcoder.com/discuss/181770)
 - 机器学习/算法校招面试考点汇总 [nowcoder](https://www.nowcoder.com/discuss/165930)
 - 计算机视觉暑期实习面经 [nowcoder](https://www.nowcoder.com/discuss/186000)
-- 算法岗面经（阿里云,1,2,3，交叉，hr面） [nowcoder](https://www.nowcoder.com/discuss/172079)
-- 春招实习面经（cv算法岗） [nowcoder](https://www.nowcoder.com/discuss/183555)
-- 双非本硕算法陪跑面经 [nowcoder](https://www.nowcoder.com/discuss/186247)
-- 2018春招科大讯飞，华为，神策数据，今日头条面经 [nowcoder](https://www.nowcoder.com/discuss/75136?type=2&order=3&pos=254&page=1)
-- 2020届渣硕春招实习总结-算法岗（计算机视觉） [nowcoder](https://www.nowcoder.com/discuss/186113)
-- 爱奇艺深度学习算法实习生面经 [nowcoder](https://www.nowcoder.com/discuss/185614)
-- 阿里，旷视，亚马逊，谷歌面经 [nowcoder](https://www.nowcoder.com/discuss/172693)
-- 算法菜鸟的春招之路 [nowcoder](https://www.nowcoder.com/discuss/188295)
-- 机器学习算法面经（腾讯阿里网易） [nowcoder](https://www.nowcoder.com/discuss/75166?type=2&order=3&pos=250&page=1)
-- 实习算法岗血泪面经，商汤，旷世，阿里，字节跳动 [nowcoder](https://www.nowcoder.com/discuss/192689?type=2)
-- 机器学习/数据挖掘岗2019秋招总结 [nowcoder](https://www.nowcoder.com/discuss/138721)
-- 算法面经（阿里、腾讯、美团等） [nowcoder](https://www.nowcoder.com/discuss/77924?type=2&order=3&pos=195&page=1)
-- 春招秋招算法机器学习岗面经（阿里、腾讯、美团、携程） [nowcoder](https://www.nowcoder.com/discuss/106725)
-- 春招（附面经） [nowcoder](https://www.nowcoder.com/discuss/79729)
-- 计算机视觉算法岗面经 [nowcoder](https://www.nowcoder.com/discuss/128148)
-- 机器学习算法面经---2018秋招 [nowcoder](https://www.nowcoder.com/discuss/32008)
-- 阿里&腾讯春招算法面经 [nowcoder](https://www.nowcoder.com/discuss/198290?type=2&order=3&pos=7&page=1)
-- 阿里暑期实习六面面经 [nowcoder](https://www.nowcoder.com/discuss/180007)
-- 计算机视觉算法岗面经 [nowcoder](https://www.nowcoder.com/discuss/128148)
-- 阿里 达摩院 cv 算法 面经 [nowcoder](https://www.nowcoder.com/discuss/216797)
-- 算法工程师面经 寒拼蘑腾作网网3 附答案 [nowcoder](https://www.nowcoder.com/discuss/231656)
-- 搜狗算法面经 [nowcoder](https://www.nowcoder.com/discuss/231973)
-- 商汤20校招CV算法研究员面经(三面+HR面) [nowcoder](https://www.nowcoder.com/discuss/209857)
-- 作业帮/寒武纪/商汤/科大讯飞面经 [nowcoder](https://www.nowcoder.com/discuss/218906)
-- 面经 | 腾讯/百度/字节跳动/拼多多/华为/美团/寒武纪/虎牙等 [nowcoder](https://www.nowcoder.com/discuss/241988)
-- 算法秋招上岸了，大家加油，我先撤了（附所有面经） [nowcoder](https://www.nowcoder.com/discuss/244979)
-- 秋招小结：感受+面经（CV算法岗） [nowcoder](https://www.nowcoder.com/discuss/248664)
-- 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)
-- 秋招小结：感受+面经（CV算法岗） - 09.07 [nowcoder](https://www.nowcoder.com/discuss/248664)
-- 阿里巴巴达摩院 CV 四轮算法面经 [nowcoder](https://www.nowcoder.com/discuss/216797)
-- 秋招小结：感受+面经（CV算法岗）- 09.26 [nowcoder](https://www.nowcoder.com/discuss/248664)
-- 2020届计算机视觉实习生面试经验（腾讯/头条/商汤/旷视/达摩院等） [nowcoder](https://www.nowcoder.com/discuss/159266)
-- 秋招 | 谷歌，微软，阿里，腾讯，百度等算法岗 [nowcoder](https://www.nowcoder.com/discuss/298278)
-- 微软、Hulu、Amazon、腾讯、百度、网易、美团、华为等18家公司SP Offer面经 [nowcoder](https://www.nowcoder.com/discuss/52516)
 - 面经 | 商汤科技计算机视觉岗【二面】 [nowcoder](https://www.nowcoder.com/discuss/267852)
 - 面经 | 阿里巴巴达摩院 CV 四轮算法面经 [nowcoder](https://www.nowcoder.com/discuss/216797)
 - 面经 | 百度、美团、拼多多、寒武纪等互联网大厂面试经验 [nowcoder](https://www.nowcoder.com/discuss/241988)
 - 面经 | 旷视科技算法研究员面经 [nowcoder](https://www.nowcoder.com/discuss/167336)
-- 18家算法面经汇总 [nowcoder](https://www.nowcoder.com/discuss/313143)
-- 一个双非渣硕的自我救赎之路 [nowcoder](https://www.nowcoder.com/discuss/328830)
 - 算法面经 | 微软/阿里/百度/字节跳动/华为/OPPO [nowcoder](https://www.nowcoder.com/discuss/181117)
+- 旷视19届春招-算法研究员-凉经 [nowcoder](https://www.nowcoder.com/discuss/167336)
+- 腾讯算法实习面试总结 [nowcoder](https://www.nowcoder.com/discuss/163996)
+- 春招详细算法面经(旷视/海康/联影等8家公司Offer) [nowcoder](https://www.nowcoder.com/discuss/163388)
+- 普通的算法/机器学习面经 [nowcoder](https://www.nowcoder.com/discuss/61907)
+
 
 ### 3. Zhihu
+- 互联网公司最常见的面试算法题有哪些？ [zhihu](https://www.zhihu.com/question/24964987/answer/586425979)
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)
-- 做计算机视觉的你，如何拿到大厂的Offer的？可否分享下？ [zhihu](https://www.zhihu.com/question/272045026/answer/366665187)
 - 字节跳动计算机视觉算法实习生视频面试 [zhihu](https://zhuanlan.zhihu.com/p/59270912)
 - 2019秋招算法面经 [zhihu](https://zhuanlan.zhihu.com/p/42936891)
 - CVTE视觉计算岗实习面经 [zhihu](https://zhuanlan.zhihu.com/p/59223324)
-- 互联网公司最常见的面试算法题有哪些？ [zhihu](https://www.zhihu.com/question/24964987/answer/586425979)
-- 计算机视觉（cv）方向今年招聘情况怎么样?是否已经人才过剩? [zhihu](https://www.zhihu.com/question/293700785)
 - 校招-基础算法图像处理算法 [zhihu](https://zhuanlan.zhihu.com/p/80887909)
 
 ### 4. Blog
@@ -127,46 +88,35 @@
 - 算法与数据结构、机器学习、深度学习 [Blog](https://www.liwei.party/)
 
 ### 5. WeChat
+- 1000 面试题，BAT 机器学习面试刷题宝典！ [website](https://mp.weixin.qq.com/s?__biz=MzU0OTU5OTI4MA==&mid=2247486469&idx=2&sn=14b701639794e67cc63bedea8d2870cb&chksm=fbac2d5accdba44c4930c42ee7c191d0a166c3b3cc8c5e2fa3efe6ed26a992b0cb6283a8114c&scene=0&xtrack=1&key=5121627df01c7147226b38275cec75014ec9b754942505b403947722cb8b7aea53b720546e71ea5d22312783c452de71448362f615081904c0c79cd401fb35fc5334f2a30b4f1ca1a7ddc764eea39116&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=UT934CWNmZoDZ1lVhvHOGEFisJUlIxDGPpY73e7nut1e18SYmUgrBd5XY3S4u28F)
+- 数据科学&机器学习基础面试题 [website](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247484547&idx=2&sn=1f9cfeee41f80623edc493d293d4e1b8&chksm=e870d5cedf075cd886afbee37b79c85dce16f5ae43d300331c5f29e0d64c32b030b621beddaa&scene=0&xtrack=1&key=96e38258b65ecb9b9b652831c3f84574b2f25e7020610c534b933a65b3b61a0cd4a0db2b54d14a128c5e7e8136e59893ae61ee9c06580040a3c7fab669f919f48e749ca1d0f8be9f7295ffed179a4acc&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=M%2Bx4I8699jpuE4n781eOB5axXkLS0Mu7Zrtx6Vi8JsVQhUxr6%2F6aCUmOC8WZybav)
 - 阿里巴巴计算机视觉算法实习生视频面试 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488083&idx=3&sn=499149282d197c1b68d3fa105a69e271&chksm=f9a260dcced5e9ca7a86741c90b5199251b4bf02b2279b314fa3302911b8d0c22e036dd7bb33&scene=21#wechat_redirect)
 - 面试经验AI算法工程师(面试官角度) [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247487216&idx=1&sn=4516fd92ecd48cebb91629a0b1f3473d&chksm=f9a27c7fced5f5694608c40a8f4dce2636986d28145f073d2d8de088dd5ef3caa66423773787&scene=21#wechat_redirect)
 - 从零基础到BAT算法岗SP——秋招准备攻略 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247485936&idx=1&sn=0e156832abdc9bfd4ee82b9b70063b3e&chksm=f9a27b7fced5f26912dd64b3c6f5a2d153068843cce378a8894ffb0ea786bcba698ef0d747f3&scene=21#wechat_redirect)
 - 蚂蚁金服/旷视/虹软/腾讯优图暑期实习offer面经 [website](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247489199&idx=3&sn=4b1f2f5033929491f56bebbc73a63e63&chksm=ebb42e7bdcc3a76d0c2c9d98f275882b9cbf852c2f32d5ab3977a670690c1150a3ab0b04aa53&scene=0&xtrack=1&key=5aa6b6fc7e8425bd24f718156836dc2e81e8283eeb1653306993c9c6816f5ba1d0415a3a95b30fdb1daf045964002a34ccb8a4f35727519df9aea73b6b87f702d2c2b2549c21f6e5360bf6929136fc5b&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=ESuAgyeBfQrIeEX8gTsQm4%2BCbjzCr74m7714n%2BShviVnNifUDKpDRrHljFR6o7iD)
-- 我在美团的这两年（附校招笔试/面试/面经分享） [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488886&idx=2&sn=492332b20d3cea34f1abc6db3bb8cbc0&chksm=976fb0eba01839fd0a3d5008ef3f9856497c81ccd7b24b54f6704cbb214c5b1c63e1994bae9e&scene=0&xtrack=1&key=06b9089f8b38a19dc32008401b357b8353893a940dacc033638bccf49fc5b677804c8eaa3a092642351bbe1946e51434390c2505086c24b7e53656d5d496007a8621d2bbaf70a1127653009d9b76b3f5&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=laGKw171mD7STlgm5UhAf8aO5%2FAa0k%2F344uX0n%2FfROga4NBnjwqA%2BHgqlB5IqA5u)
-- 1000 面试题，BAT 机器学习面试刷题宝典！ [website](https://mp.weixin.qq.com/s?__biz=MzU0OTU5OTI4MA==&mid=2247486469&idx=2&sn=14b701639794e67cc63bedea8d2870cb&chksm=fbac2d5accdba44c4930c42ee7c191d0a166c3b3cc8c5e2fa3efe6ed26a992b0cb6283a8114c&scene=0&xtrack=1&key=5121627df01c7147226b38275cec75014ec9b754942505b403947722cb8b7aea53b720546e71ea5d22312783c452de71448362f615081904c0c79cd401fb35fc5334f2a30b4f1ca1a7ddc764eea39116&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=UT934CWNmZoDZ1lVhvHOGEFisJUlIxDGPpY73e7nut1e18SYmUgrBd5XY3S4u28F)
-- 如何拿到自己满意的offer？ [website](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247486735&idx=1&sn=73d5b1f2daed2f84ebdfbb8b24040378&chksm=97d7e898a0a0618e94727f87742ef25a058adfa4b122936d1699f3bc58d7f4c2c9066fc616e3&mpshare=1&scene=24&srcid=01048c6NLyyTF2KFsmufQUmu&key=5aa6b6fc7e8425bd2c56dc2d40e38a5420421b970c3032c6a10340aafea634d628efc581ea514113bb3aa32ced5bd66622e00628fc4ab073d3cf26dc370b82f26d7d5fdd5183337e2fa81cf2fbc4c396&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)
 - 机器学习与深度学习常见面试题（上） [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488694&idx=1&sn=167b8b9897165d3dcb285ffd12ff7aef&chksm=f9a26639ced5ef2ff2317437f5e4bd99ca8ed5d63378df591c8d654656bb7e2e8b262406d746&mpshare=1&scene=24&srcid=0428SfDKuYmDLZAmwecrlang&key=9a1004c4c06b26acf767311bd48d12abe9c4f22d623717fdf4c7c360532478e73b3c6283e549b97aba7f87bddf518c1e273bc4148f28ed46714e24760a11a2f57aaa6d36454cd29c631c5d0b21d298c0&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=iqu0jGzZHsjPTDJlLkm0O7uj41FuEikyiBNBZJTYuu65wgzAYk%2Bp3HNofRkaEx1J)
 - 机器学习与深度学习常见面试题（下） [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488889&idx=1&sn=ac728edf471bcd01e62132f930b14ee3&chksm=f9a267f6ced5eee02d48255208056e2c21b6403a9b00e7ae197b7d3c85e2862a6e607009bc99&scene=0&xtrack=1&key=f7bb43d4492422e0ae8fea0c881639406030f4097e3d118f315e35dcc3e33a7658535cf021dfaf606112db121d98695883fc1bc96e0f411e30e2245ebc95c6a659fa8cf4395fab1cd78593f782063cf8&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=iqu0jGzZHsjPTDJlLkm0O7uj41FuEikyiBNBZJTYuu65wgzAYk%2Bp3HNofRkaEx1J)
 - 完备的 AI 学习路线，最详细的资源整理！ [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488932&idx=1&sn=c827edbdff5cab57b1a5073cbb8569ef&chksm=976fb039a018392f4f6843ddd6677b9da8c321b68ac31ab974f958f00c7e80d027626d83d959&scene=0&xtrack=1&key=06b9089f8b38a19d2e2db06d5c6b94a0345d9e0b8d43b09a54ab6b8b469fd9c19eb67355f4912c2d83a95611e25848af0dac48119a087d173c1909ea1d9941670a4e6e4e481b5b1f20f0a207c899a125&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=iqu0jGzZHsjPTDJlLkm0O7uj41FuEikyiBNBZJTYuu65wgzAYk%2Bp3HNofRkaEx1J)
 - 蚂蚁金服面经（已拿 Offer） [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488943&idx=2&sn=ec0ab15e3363f7481aeb3389a04059ee&chksm=976fb032a0183924ffd8b0687a2ea2b5b09b7f87b972ae222aaf521670ef10ef0fcde13169bc&scene=0&xtrack=1&key=5aa6b6fc7e8425bd9a4faebdd50926d2310db700e77c01db295a61d7a1a82f1f208af244986bfce78e52ff3bc4c9b3b3f2136489288aeb12f5244086349e79cb3ee8da582754b5db259890358dd7a7e6&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=OZOmBOXgF7giDdzrtiEXJPsbtFeo%2Btdl1unYq481qxpY6Lb9R9%2BLn%2F9hY0ylNCn0)
-- 30家企业海投，10余家offer，我的漫漫秋招之旅 [website](https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247489379&idx=3&sn=f8a11af787090f64e0ab90bca532b8ef&chksm=ec5ec81edb294108f348d3d16cec98241b181edff3d1410c6dcbfdf521d83c7cd999438c574b&scene=0&xtrack=1&key=5121627df01c7147ef35033f1af9bccbb1e31e4ccfd8dbe573c58f4089900066d7eb55d835548964bad0e6f56716f766b92505053a925e9f2696c20476226c00bdd5949a1d072fe1497335e35c1efd7e&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=UrazX6ReJtn1v8cE1ILgb8tYK6ts182gDPF0U5u640C1dpDy4DB2%2Ft9sU5PyteOB)
-- BAT 三连挂是什么体验？硕士小姐姐讲述心酸血泪史！ [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247489196&idx=1&sn=5dfd26065bd8c1ff1cc9b43d3409aff1&chksm=976fb331a0183a2702db877ceab3786ed98a05e02681d051a7be31d8aff897b1c1a51b6d57ad&scene=0&xtrack=1&key=96e38258b65ecb9be54f6002a8d8c812dc8faf5cc224160eae5f2901a3284431f5fcbfb77fc2734e3777c3c1548352414a61e2dc8fc455f08f0c5c850de73d5a0c428b905f0db440f10ef765c6cacc64&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=eLoyWxAMmRP8tTN2FpKEZENTLtDXwjBWG5BgqeCrcHcqS31qaU47ROH3%2FW7pIZWt)
-- 数据科学&机器学习基础面试题 [website](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247484547&idx=2&sn=1f9cfeee41f80623edc493d293d4e1b8&chksm=e870d5cedf075cd886afbee37b79c85dce16f5ae43d300331c5f29e0d64c32b030b621beddaa&scene=0&xtrack=1&key=96e38258b65ecb9b9b652831c3f84574b2f25e7020610c534b933a65b3b61a0cd4a0db2b54d14a128c5e7e8136e59893ae61ee9c06580040a3c7fab669f919f48e749ca1d0f8be9f7295ffed179a4acc&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=M%2Bx4I8699jpuE4n781eOB5axXkLS0Mu7Zrtx6Vi8JsVQhUxr6%2F6aCUmOC8WZybav)
 - 计算机视觉、算法岗实习面经（阿里/格灵深瞳/南京地平线机器人） [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247489566&idx=2&sn=c80be1ba406ccebf43a46db80660a4f1&chksm=976fbd83a0183495acd5bfa788d2ea286eb04249693559309f72e0082e61fab57a3300604270&scene=0&xtrack=1&key=7fca267e209412d9b05c556b42b9a0fe270a7ed740b566281d6a3e47747e97719c66e9f6e9177328b90305a7c54d43a85e73d8eace23e076bb985468996179aa9caed02092d455a2536c605568ff1a75&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=j%2BeTr3gGhtYbB5BELmEqEDAsSEIlbJT1JSozWqEv2dcR7%2FxLFyvlo4SOAEZG3VMy)
-- 面经 | 挂两次腾讯面试的春招教训 [website](https://mp.weixin.qq.com/s?__biz=MzI3NTUwNzMwNA==&mid=2247490123&idx=2&sn=d772fca22b24da33d2d37dcbd3e8ccf8&chksm=eb02eb4cdc75625a87587062c021fd55a0d52b661708fb8ea7ea2c45348aaf45612f5b5a67f1&scene=0&xtrack=1&key=c057d35eab709d255cd973af834e8e7fed12a361e2f9a7f994792b52fe5d0219e5b61ec11a0082ec6d688698b154581151a78facfedbc3e18bd93873a3b2a5262d11d9a9786af2e35e149c4e45048e25&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=iyLHjIA5wZnXmOS0ABLcY2XLov463bca6oRsGuW4BP5gLfODXfelBPUorCcfy5LY)
 - Face++公司 - 两轮技术面试面经 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247490838&idx=2&sn=ebab23ad07e81fac51ff73bd05d6d024&chksm=f9a26f99ced5e68f262f1f3378de60c3a13812228592635eea9b1a5b3363d0005e4b166f12de&scene=0&xtrack=1&key=8131978de357c28aca9abbe0f79df6ffb5fd2bf34350c929d44846f26dce3eb3e67e733a7b4fc00f3de641695cf6a36f8eef27d996acdaface59aa2dbd586518c6436be26147ec532797cf23ebd9cc23&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=pAAFeZ%2FWM675ia1cV7wlRX09ocUk2JDlruSKGs7l3i2HbajbZPSzXDNSri3idv6U)
 - 秋招面经 | 旷视科技算法岗秋招面试经验分享 [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247489963&idx=2&sn=e863112b068ad716a9d6dc820eaf004b&chksm=ec1ff452db687d4446dce6640075f144b07f6032e4c7f125d1569783083550b92b5746f59cc3&scene=0&xtrack=1&key=8131978de357c28a4635cd6d39d94a9eb5aa3b39352d0a2110d4fb4370e7b18d4f45750a4ba7ffa904a171d015c95ef1b1b4672224f83c6e3c71443c151dd9d22cb8d65be1f7f8fa5cfa69b197ac2c43&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=%2BALHnM%2BRBZdmh5iwLWmDGy48Bv5N3g6fYsAHbZn8GvqBr8QkG%2FbTMIgivI0Ll2cN)
 - 面经+经验分享|2019秋招算法岗复盘 [website](https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247485062&idx=1&sn=c167c254d0a725cb7cf49fc1d4ed0387&chksm=e9d01647dea79f5111bec97badf23db4711c07e1fc7b9b0b48bef94556f7956936cd1bd89799&scene=0&xtrack=1&key=4e5709a69a44a1ddc80614fd27bc9fd9692e4095edbe878b041ed1e58e4ba8fca1371f265f11d0a574b6fb00ec97896caa2e62b9f2546e5cedfc11556151bc4386ce8343ecc44ab0c232a6f7463c88f9&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=aIZ6cWaLHjOvxT%2Fw%2FmvPE3awD9%2B5yykz%2BYcqY%2BtaGQrGH2p8ftZePYMiyjLPmOUf)
-- 专科生阿里大数据一面面经(已过) [website](https://mp.weixin.qq.com/s?__biz=Mzg3NjI4OTg1Mw==&mid=2247484222&idx=1&sn=fa0d9084846a3fd2a681afcf7bc5e4e5&chksm=cf35c96cf842407a4cca9b960785ff6909cfe0eba6c9dbd37198c27e6e198dff5c8472548eef&scene=0&xtrack=1&key=dccf35d64f2e46087037d2958558ff4576eedeeaed91d201defca8c13685e3321e80314870260fdf5f4c2a701e1d528c720bede53b67dfa86a92a5b0dfb019282a5ab68d32ef5ed2f2266199f6efe168&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=aIZ6cWaLHjOvxT%2Fw%2FmvPE3awD9%2B5yykz%2BYcqY%2BtaGQrGH2p8ftZePYMiyjLPmOUf)
-- 2019秋招算法岗复盘 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjk4MjAxOA==&mid=2247484535&idx=1&sn=6e4b18c801ff1ef350fc8ad1c11a4a72&chksm=f99e501acee9d90cae86eac372cf679ecacb73fc18e4c937a8b6bd1129e5894db7a8c90329d5&scene=0&xtrack=1&key=225412a9c7b5021367e31f82715ee8b8955eb7c2a5d8a5ad916892adbbeaccb2c78eeb2704ae66d998aa0755d01ff755de680aac057b452d7572f6fb9c1740d50346bf71dea9deac9324220f90929182&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=rWrQpFnb7ealkvqkv3J38FWHQCDTbRVo%2BTwD4Gdxp7R8NbjeXhAb%2Fts%2BMA4zNtrO)
 - 我面试了10家算法公司，这是我能记住的所有问题 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491149&idx=2&sn=5aa369afa89d2080de45145de40a4855&chksm=f9a26cc2ced5e5d42d5171be277778f8527e99f6c270b4d8290e9defff3d1849d8cd48c3dcbe&scene=0&xtrack=1&key=ee7fe1a80b3162f35a079b9ca82a3398a4b1c1e248c5764200c15f41f0ab1645613e14896741c52d5357b2e9aea72f843e2d5f14a6d7c570e17f2ea3803d3adf3c2b288055c1fe983ed4da1970b0e9cf&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=rWrQpFnb7ealkvqkv3J38FWHQCDTbRVo%2BTwD4Gdxp7R8NbjeXhAb%2Fts%2BMA4zNtrO)
 - 计算机视觉算法工程师（旷视、商汤、智云、海康）面试总结 [website](https://mp.weixin.qq.com/s/lKYmo_Sd5Pq8otvS2_x5iA)
 - 秋招面经 | 滴滴20校招CV算法岗面试经验分享(三面） [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490482&idx=2&sn=ffedf241939b45e27020d67b1ad461e1&chksm=ec1ff64bdb687f5d4dfd10a3d3b2f2e70eb87fac9c81357b341dc5c4a6bf1c4dfd077f366149&scene=0&xtrack=1&key=a4f2e1c5351761186dd70d875d82053acf133cf2f6ced0480c4404cbb9302ef413c80539be251de00e5be187a63cdd58ea1381ea6fe0f93c3c97d1bd2d9a59fbd917d0be7ecf53ee389d2743bb2244ea&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=bBA78nBZzTpaKTmAAaWvFQdsuIgbvpsAxFzrpcjvG4m%2BUxCwT%2BGe%2FlP1xh9fyATn)
-- 八家国企大数据面经(干货，详细答案) [website](https://mp.weixin.qq.com/s?__biz=Mzg3NjI4OTg1Mw==&mid=2247484418&idx=1&sn=b3ef3b3a542105ec201a58171925c9ae&chksm=cf35ce50f8424746b8b36752840c2f36c328b7cdf2f0d483fa0d2b4d440321e0a3eed58ea33f&scene=0&xtrack=1&key=a4f2e1c5351761180b02215d627ba2b8218eb9c90306209837b3a4e8a677c58171c9a898b5953705d17cf0becd00661faec765089231d5d52d62e3ddd4843f808314714a525a16d8005045d0634e4662&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=bBA78nBZzTpaKTmAAaWvFQdsuIgbvpsAxFzrpcjvG4m%2BUxCwT%2BGe%2FlP1xh9fyATn)
 - 秋招经历（已收到百度、阿里、腾讯、美团、京东、拼多多的 offer） [website](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247484467&idx=1&sn=4e4ea07d5daa4491c47623ccae364053&chksm=97048f8fa07306991c41e1b36c241e66cfe329793b3868abf9b69c9f6c8e22ed65ccdc81050b&scene=0&xtrack=1&key=f3b89a09cde51f0f18b12ad73080cb4476e44408f3adf8bf3dcb0a444d2394a43bc4d562865cb056402b1336a61cfbf2bedfce5c082867a1dfc3415eb9843d71537a4d52657e975c9a6d634e95a5acb8&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=RpJWE06PIp32SBXL8%2FeBcKde4wI7jAKOPyofLWQB%2FfLrZ2GcooZxvXB2E1yAZax7)
 - 10大机器学习Q&A，面试必知！ [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491786&idx=4&sn=0b90f86f56cdee3ca6d521ba5daa431d&chksm=f9a19245ced61b53843fd0ebce665682e1f32ba783a53047ada8588996544053282d7988ccd0&scene=0&xtrack=1&key=a4f2e1c5351761187f5a6ed4c82f78256be962afa2035410b0c853353d63912b5bb6ba70dbfba485d77a657e724808eebc40721de0069b67d3a8e55379ab42898bfae411820edf36cc4d2128efd7133d&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=qYkZjE2bwZNl6kCdiw9%2FVQhvf4pr95lZY5htRdH4dZlMmAkwLaO37AuuvCezNz0w)
 - 机器学习常见算法优缺点总结！ [website](https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247485383&idx=1&sn=dc481b7e6261aecfada7b772fd2ae471&chksm=e9d01706dea79e1097a39ee0779dd8ab99671714f177133fc9f4dbd531e0cee4807cd34f178c&scene=0&xtrack=1&key=d5739ef05bcda6301af88ca81d2856a4296b48c7e05d1733f3d195063ccd566c1430c6d2cbf990173ec038c842d0b8c710678815b45174cb508e0e6c80e5d48790e062a492ef85b13f3b9a4d2b644b77&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=CqBupw%2FP1tVbatYy5KtWCuDWZ2meT4iMIDhjMVNgyWAou9uxB8EDLiHzBzTHh2xj)
 - 2019秋招AI算法岗复盘 [website](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247488788&idx=2&sn=50116b5ec4c9171b49bb52d36386a9ff&chksm=97d7f083a0a079952bdb093250f6ee01a15434ba5b3f7d8ae038cba23a7c28315d331a0ceedd&scene=0&xtrack=1&key=a4f2e1c535176118d1a03004f064566b9a1952a6fada428118cb08d353feab39102f225cb6fff0f98cf55790d9d3a589ea653a270e5e6e89407c726a2c3483a980cbbbda8890a3cecfe24fd88348e1ca&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=e6hh0zbWeUNXFGwXBwcggQr95dIdog5Q1MWep%2FM9ahanjOPwIheztFnowX0pNCPE)
 - 秋招面验 | 计算机视觉汇总面经分享 [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247491490&idx=2&sn=cd09d4186254d18aef769fc634d68e86&chksm=ec1ff25bdb687b4de2e46645891760f19637bb9a357d07aa72fb61ada483cf486c5a1e352170&scene=0&xtrack=1&key=a4f2e1c5351761188e9e953dfd54a925f5b9cd52bc369cbfb582cfb4f749c6ee2aa611832c4d2b714b81a6b4abc9ac8bc737eb46c8128f157660d2d23f2bf176c051a2e972f10b346884e58009985fa7&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=e6hh0zbWeUNXFGwXBwcggQr95dIdog5Q1MWep%2FM9ahanjOPwIheztFnowX0pNCPE)
 - 面试官比较看重简历中的哪些维度，有什么写简历的技巧、建议和总结？ [website](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247487038&idx=1&sn=0ac71c12bd7d54a9a52b5e97a9622fe6&chksm=e870df73df075665392ddced32243db8058297e2d0d67e757aac9adec8f5dd2dbe4d1f7c0523&mpshare=1&scene=1&srcid=&sharer_sharetime=1573355519003&sharer_shareid=8724c7983f20914ec3c0c086bba89335&key=d4e2e0a334fd7fc709362ca1227355bf6c28c5babea298ca5610006e4c4531543ae1a28be050456a55c994a46bd6e4895aa6643190377fc359e04dae87a37272a4112e7552e8bcaedd60bfa1b01539f6&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62070152&lang=zh_CN&pass_ticket=bKjcsGTk1thGyRHccXtSB6iwtrQWAI3mkAWK%2FFUqE6qp4dWMipHk2gUW9BhzyLCY)
-- 2019 秋招总结（算法工程师，非科班，已拿 6+offer，最后选择pdd） [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247492376&idx=1&sn=b00c35ef44b9dab6e87210b470f36011&chksm=ec1c0ee1db6b87f75c9adeeff80f132d37ad317e4e9ac1a2cf503d2b7ad3f481dd35e1e1e144&scene=0&xtrack=1&key=ff1b1d089c15295ce89a0ed9cae474625f206d638b2e1bf064932989709b67df4c759bee3c613d3e281842bd5bc73e881fef17a4e97ee36e11ed4055b7ef2cbf3f759d7b89a137e97f19fa8f337cd5c3&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=A7%2BQdLgsE7Lp89BmMFR4w84%3D&pass_ticket=isK%2FwATeORDKA144xaM2%2FZkXRQIChncFMP25btSedNMCRsZBUEgl7YxoVEFxq8eQ)
-- 专科生作业帮大数据面经(已拿offer，附详细答案) [website](https://mp.weixin.qq.com/s?__biz=MzAxMjcyNjE5MQ==&mid=2650489243&idx=2&sn=320cd566306cd0288711bcb932872e0c&chksm=83a29b5bb4d5124d9c21f407eba82e6ef171313de0d0982f17bd92732c2d9962140c6a19061c&scene=0&xtrack=1&key=ff1b1d089c15295c0fe86140c1dbb0ec3142747bd0988d339ad5028abdb5422fd4d9020445d2e484c3eba95531b9bc693bd5198a5134d604816de4bbcf3f3100d335f438028f53e2b135536aac4f750a&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=A%2Fw9YetjrO6jEgfuuYjVWoM%3D&pass_ticket=isK%2FwATeORDKA144xaM2%2FZkXRQIChncFMP25btSedNMCRsZBUEgl7YxoVEFxq8eQ)
+
 
 ### 6. Others
-- 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
 - Solutions to Introduction to Algorithms [Github](https://github.com/gzc/CLRS)
 - CV 领域论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/60049093)
 - CV 领域Paper论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/58860096)
-
 ---
 
 ## Machine Learning 
@@ -178,8 +128,6 @@
 - 机器学习面试复习资源 [Github](https://github.com/wangyuGithub01/Machine_Learning_Resources)
 
 ### 2. Documentation
-- Your new Mentor for Data Science E-Learning [Github](https://github.com/clone95/Virgilio)
-- 王斌老师翻译的<机器学习实战>书python代码实现 [Github](https://github.com/wzy6642/Machine-Learning-in-Action-Python3)
 - PRML(python) [Github](https://github.com/ctgk/PRML)
 - 李航博士<统计学习方法>一书中所有算法python实现 [Github](https://github.com/WenDesi/lihang_book_algorithm)
 - <统计学习方法>第二版的代码实现 [Github](https://github.com/fengdu78/lihang-code)
@@ -188,13 +136,7 @@
 - 机器学习实战(Python3) [Github](https://github.com/Jack-Cherish/Machine-Learning)
 - 吴恩达讲授的机器学习 [Coursera](https://www.coursera.org/learn/machine-learning) [163](http://open.163.com/special/opencourse/machinelearning.html)
 - Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS)
-- Data-Science--Cheat-Sheet [Github](https://github.com/abhat222/Data-Science--Cheat-Sheet)
-- Data Science Crash Course [Github](https://maria-antoniak.github.io/2018/11/19/data-science-crash-course.html)
-- List of Data Science Cheatsheets to rule the world [Github](https://github.com/FavioVazquez/ds-cheatsheets)
-- Your new Mentor for Data Science E-Learning. [Github](https://github.com/virgili0/Virgilio)
 - Python3 入门机器学习 [Github](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
-- DrWhy is the collection of tools for Explainable AI (XAI) [Github](https://github.com/ModelOriented/DrWhy)
-- Fit interpretable models. Explain blackbox machine learning. [Github](https://github.com/jwasham/coding-interview-university)
 - 李宏毅《机器学习》笔记 [Github](https://github.com/datawhalechina/leeml-notes)
 - 机器学习(Machine Learning) 深度学习(Deep Learning) NLP面试中常考到的知识点和代码实现 [Github](https://github.com/NLP-LOVE/ML-NLP)
 - 周志华《机器学习》手推笔记 [Github](https://github.com/Sophia-11/Machine-Learning-Notes)
@@ -215,7 +157,6 @@
 ---
 
 ## Deep Learning  
-**注：百度 “如何使用google免费gpu” ，每个人单卡14G Telsa T4，需要[科学上网](https://github.com/getlantern/lantern)**
 
 ### 1. Interview
 - 深度学习面试问题 [Github](https://github.com/elviswf/DeepLearningBookQA_cn)
@@ -299,10 +240,6 @@ https://github.com/dsgiitr/d2l-pytorch)
 - 统计机器学习 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1692004)
 - 机器学习导论 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1694003)
 - 吴恩达 深度学习工程师 [网易云课堂](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
-- 计算机视觉基础入门课程（从算法到实战应用） [AI研习社](http://www.mooc.ai/course/353)
-- 卡耐基梅隆大学 2018 秋季《深度学习导论》 [AI研习社](http://www.mooc.ai/course/562)
-- CS224n 斯坦福深度自然语言处理课  [AI研习社](http://www.mooc.ai/course/494)
-- 2018 MIT 6.S094 麻省理工深度学习和自动驾驶课程  [AI研习社](http://www.mooc.ai/course/483)
 - Deep Learning: Advanced Computer Vision [udemy](https://www.udemy.com/advanced-computer-vision/)
 - Computer Vision Certification by State University of New York [coursera](https://www.coursera.org/specializations/computervision)
 - Convolutional Neural Networks [coursera](https://www.coursera.org/learn/convolutional-neural-networks)
@@ -396,32 +333,4 @@ https://github.com/dsgiitr/d2l-pytorch)
 - [Data Science Challenges](https://www.datasciencechallenge.org/)
   
 ---
-  
-## Resume Template 
-- Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese)
-- AI算法岗简历模板 [Github](https://github.com/amusi/AI-Job-Resume)
-- 个人简历模板 [Github](https://github.com/ikym/resume)
-- 程序员简历模板系列 [Github](https://github.com/geekcompany/ResumeSample)
-- 如何写一份专业的技术简历 [Website](https://mp.weixin.qq.com/s?__biz=MzA5NDk4NDcwMw==&mid=2651388719&idx=1&sn=84ec4d342f85199b7f4dd5bdaa535949&chksm=8bba1bbfbccd92a9425c7dd0efdf4924c0308bb62ee6808f202c7a8f52fd6b78e43ed954bbb9&scene=0&xtrack=1&key=ff1b1d089c15295c18c4772c5513870b3f444ddfc7eedefb34d50858e7be4c2d678cac2b24aa0356f577aa7c34a5bacdfdcac62bace0a0b7ec262694292724fd25f4c1ec3d115ad041ea0fc899723239&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=AzjSleucIgNxHjJEKgZIQkc%3D&pass_ticket=isK%2FwATeORDKA144xaM2%2FZkXRQIChncFMP25btSedNMCRsZBUEgl7YxoVEFxq8eQ)
-  
----
-  
-## Others
-- 博士生在没有导师指导的情况下，该如何自己选题发 CVPR [zhihu](https://www.zhihu.com/question/64566768)
-- 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
-- awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)
-- Startups about artificial intelligence. (DM, ML, NLP, CV...) [Github](https://github.com/lipiji/AIStartups)
-- Awesome Programming Books [Github](https://github.com/majikarp/awesome-programming-books#id-section2)
-- 计算机速成课(全40集) [Github](https://github.com/1c7/crash-course-computer-science-chinese)
-- 清华大学计算机系课程攻略 [Github](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-- 北京大学课程资料整理 [Github](https://github.com/lib-pku/libpku)
-- 中国科学技术大学课程资源 [Github](https://github.com/USTC-Resource/USTC-Course)
-- 上海交通大学课程资料分享 [Github](https://github.com/CoolPhilChen/SJTU-Courses/)
-- 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles)
-- 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki)
-- A complete computer science study plan to become a software engineer. [Github](https://github.com/jwasham/coding-interview-university)
-- Curated list of resources for college students [Github](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
-- Best Paper Awards in Computer Science (since 1996) [website](https://jeffhuang.com/best_paper_awards.html)
-- Everything you need to know to get the job [Github](https://github.com/kdn251/interviews)
-- Everything you need to prepare for your technical interview [Github](https://github.com/andreis/interview)
-- Materials to help you rock your next coding interview [Github](https://github.com/yangshun/tech-interview-handbook)
+
