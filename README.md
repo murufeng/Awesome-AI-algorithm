@@ -1,6 +1,6 @@
 # Awesome-AI-algorithm
 
-> 人工智能cv算法方面的综合资源集（持续更新中）
+> 人工智能算法方面的综合资源集（持续更新中）
 
 [![GitHub stars](https://img.shields.io/github/stars/murufeng/Awesome-AI-algorithm.svg?style=social&label=Stars)](https://github.com/murufeng/Awesome-AI-algorithm) [![GitHub forks](https://img.shields.io/github/forks/murufeng/Awesome-AI-algorithm.svg?style=social&label=Forks)](https://github.com/murufeng/Awesome-AI-algorithm) [![HitCount](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm.svg)](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm)
   
@@ -21,14 +21,14 @@
   - [资料](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-documentation-1)
   - [代码实战 Pytorch](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-pytorch-code)
   - [代码实战 Tensorflow](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#4-tensorflow-code)
-  - [网课](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#5-online-course)
+  - [课程](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#5-course)
 - [C/C++](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#cc)
 - [Python](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#python)
 - [竞赛/比赛](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#competition)
 ---
 ---
 
-## Algorithm-Interview
+## Algorithm Interview
 ### 1. Github
 - 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information)
 - 算法工程师面试 [Github](https://github.com/PPshrimpGo/AIinterview)
@@ -235,7 +235,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course [Github](https://github.com/ageron/tf2_course)
 - TensorFlow 2.0 深度学习开源书 [Github](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
   
-### 5. Online Course
+### 5. Course
 - 斯坦福CS231n李飞飞计算机视觉 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001)
 - 统计机器学习 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1692004)
 - 机器学习导论 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1694003)
