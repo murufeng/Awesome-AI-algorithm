@@ -1,6 +1,6 @@
 # Awesome-AI-algorithm
 
-> 人工智能算法方面的综合资源集（持续更新中）
+> 人工智能算法方面的综合资料合集（持续更新中）
 
 [![GitHub stars](https://img.shields.io/github/stars/murufeng/Awesome-AI-algorithm.svg?style=social&label=Stars)](https://github.com/murufeng/Awesome-AI-algorithm) [![GitHub forks](https://img.shields.io/github/forks/murufeng/Awesome-AI-algorithm.svg?style=social&label=Forks)](https://github.com/murufeng/Awesome-AI-algorithm) [![HitCount](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm.svg)](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm)
   
@@ -19,12 +19,16 @@
 - [深度学习](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#deep-learning)
   - [面试](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-interview-1)
   - [资料](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-documentation-1)
-  - [代码实战 Pytorch](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-pytorch-code)
-  - [代码实战 Tensorflow](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#4-tensorflow-code)
-  - [课程](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#5-course)
+  - [课程](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-course)
+- [强化学习](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#Reinforcement-Learning)
+  - [资料](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-documentation)
+  - [论文](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-papers-and-algorithm)
+  - [课程](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-course)
 - [C/C++](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#cc)
 - [Python](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#python)
-- [竞赛/比赛](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#competition)
+- [Pytorch](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#pytorch)
+- [TensorFlow](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#tensorflow)
+- [竞赛/比赛平台](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#competition)
 ---
 ---
 
@@ -121,21 +125,19 @@
 
 ## Machine Learning 
 ### 1. Interview
-- 机器学习面试算法梳理 [Blog](https://www.cnblogs.com/tornadomeet/p/3395593.html)
-- 面试官如何判断面试者的机器学习水平 [zhihu](https://www.zhihu.com/question/62482926)
 - machine-learning-interview-questions [Github](https://github.com/Sroy20/machine-learning-interview-questions)
 - 机器学习与深度学习面试问题总结 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247486331&idx=1&sn=abc69ee44d932dd7d6bc4bbef82045c8&chksm=97ea211ea09da808a546c4a6f485f45289fea2e69cddc95aaf16f06ddfb9c428ecf9d259c980&scene=0&key=f7bb43d4492422e0472e06f4faf0076f9d9de975e8a73050e15cd63f1f549a060f9018009aa9f1f5f19aa37f1408ecb3ea2be5b8464b4eae89884e1d881c91ebef20c84ea9198fed470f36016f54c30a&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)
 - 机器学习面试复习资源 [Github](https://github.com/wangyuGithub01/Machine_Learning_Resources)
 
 ### 2. Documentation
-- PRML(python) [Github](https://github.com/ctgk/PRML)
+- 模式识别圣经-PRML(python) [Github](https://github.com/ctgk/PRML)
+- ML/DL学习笔记（基础+论文） [Github](https://github.com/lartpang/Machine-Deep-Learning)
 - 李航博士<统计学习方法>一书中所有算法python实现 [Github](https://github.com/WenDesi/lihang_book_algorithm)
 - <统计学习方法>第二版的代码实现 [Github](https://github.com/fengdu78/lihang-code)
 - <机器学习>(西瓜书)公式推导解析 [Github](https://github.com/datawhalechina/pumpkin-book)
 - <数据科学实战>书代码 [Github](https://github.com/oreillymedia/doing_data_science)
 - 机器学习实战(Python3) [Github](https://github.com/Jack-Cherish/Machine-Learning)
 - 吴恩达讲授的机器学习 [Coursera](https://www.coursera.org/learn/machine-learning) [163](http://open.163.com/special/opencourse/machinelearning.html)
-- Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS)
 - Python3 入门机器学习 [Github](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
 - 李宏毅《机器学习》笔记 [Github](https://github.com/datawhalechina/leeml-notes)
 - 机器学习(Machine Learning) 深度学习(Deep Learning) NLP面试中常考到的知识点和代码实现 [Github](https://github.com/NLP-LOVE/ML-NLP)
@@ -165,10 +167,7 @@
 - 自己整理的一点和深度学习相关的面试考点 [zhihu](https://zhuanlan.zhihu.com/p/48374690)
 
 ### 2. Documentation
-- 深度神经网络实战技巧 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247487319&idx=2&sn=35c275493f2c76a557cd5d95cbe728cc&chksm=97ea2532a09dac24d4acee0d38f6f91eee5b27ae0b0396a6186a30e26c2c515fae520013f194&mpshare=1&scene=24&srcid=0915AM36f3jIiv2An5onyGRI&key=026f558c5690f871f52a7864e791811c82fe8d67d1c3604a334a8f8a39c252cbcc03ace1a17af46a7d29333921ca82b635602f95a20b530b7e2ceb2ea411cd1e4867ece5bb7c7307ac3407bf450794e1&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)
-- 深度学习从入门到进阶的12个经典问题及解答 [Blog](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247489949&idx=2&sn=47ed40dd141c8321bb2478d64b3ec403&chksm=fbe9a052cc9e29447d99413b4bc37adbde195185aa6383166224f9935f0d318d051dd07ccd0c&scene=0&key=5121627df01c7147efe8859959f4d20b73fba95c9371f7ac9d15490736e8e5d799c882d8e8ee86f2177feec1fed1ccbad55b8aa00ea12e7c5f11d9382dc158e587fdd3f670997b791ada4fbbe9bf81e3&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)
 - 计算机视觉知识点总结 [zhihu](https://zhuanlan.zhihu.com/p/58776542)
-- 图解人工智能 [Github](https://okai.brown.edu/zh/index.html)
 - awesome-deep-learning [Github](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)
 - 复旦大学邱锡鹏教授发布<神经网络与深度学习> [Github书](https://github.com/nndl/nndl.github.io) [Github示例代码](https://github.com/nndl/nndl-codes) [Github课程练习](https://github.com/nndl/exercise)
@@ -179,9 +178,8 @@ https://github.com/dsgiitr/d2l-pytorch)
 - Deep-Learning-Papers-Reading-Roadmap [Github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - 神经网络讲解视频 [YouTube](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) [bilibili](http://space.bilibili.com/88461692/#/)
 - 神经网络和深度学习的在线书籍 [website](http://neuralnetworksanddeeplearning.com/) [chinese](https://tigerneil.gitbooks.io/neural-networks-and-deep-learning-zh/content/)
-- 花书 Deep Learning 中文版 [Github](https://github.com/exacity/deeplearningbook-chinese)
+- 深度学习圣经(花书)Deep Learning 中文版 [Github](https://github.com/exacity/deeplearningbook-chinese)
 - Open AI Blog [website](https://blog.openai.com/)
-- Distill Blog [website](https://distill.pub/)
 - BAIR 博客 [website](http://bair.berkeley.edu/blog/)
 - DeepMind 博客 [website](https://deepmind.com/blog/?category=research)
 - Andrej Karpathy的博客 [website](http://karpathy.github.io/)
@@ -194,7 +192,6 @@ https://github.com/dsgiitr/d2l-pytorch)
 - Graduate Descent Blog [website](http://timvieira.github.io/blog/)
 - Adit Deshpande的博客 [website](https://adeshpande3.github.io/)
 - createmomo的博客 [website](https://createmomo.github.io/)
-- ML/DL学习笔记（基础+论文） [Github](https://github.com/lartpang/Machine-Deep-Learning)
 - 深度神经网络中的一些模型 进行统一的图示 [Github](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network)
 - five-days deep learning [website](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html) [Github](https://github.com/mlelarge/dataflowr)
 - Learn_Computer_Vision [Github](https://github.com/llSourcell/Learn_Computer_Vision)
@@ -207,34 +204,8 @@ https://github.com/dsgiitr/d2l-pytorch)
 - deep-learning-drizzle [Github](https://github.com/kmario23/deep-learning-drizzle)
 - pyimagesearch [Website](https://www.pyimagesearch.com/)
 - 机器学习/计算机视觉/ NLP的论文及笔记 [Github](https://github.com/yassouali/ML_paper_notes)
-
-### 3. Pytorch Code
-- pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
-- Offical pytorch examples [Github](https://github.com/pytorch/examples)
-- Offical pytorch tutorials [Github](https://github.com/pytorch/tutorials)
-- stanford-cs-230-deep-learning [Github](https://github.com/afshinea/stanford-cs-230-deep-learning)
-- practicalAI [Github](https://github.com/GokuMohandas/practicalAI)
-- PyTorch中文手册 [Github](https://github.com/zergtant/pytorch-handbook)
-- <深度学习框架PyTorch：入门与实践>的对应代码 [Github](https://github.com/chenyuntc/pytorch-book)
-- code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
-- Awesome-pytorch-list [Github](https://github.com/bharathgs/Awesome-pytorch-list)
-- <Pytorch模型训练实用教程>中配套代码 [Github](https://github.com/tensor-yu/PyTorch_Tutorial)
-- An unofficial styleguide and best practices summary for PyTorch [Github](https://github.com/IgorSusmelj/pytorch-styleguide)
-- fast.ai Computational Linear Algebra course [Github](https://github.com/fastai/numerical-linear-algebra)
-- Awesome-PyTorch-Chinese [Github](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
-- Build-an-AI-Startup-with-PyTorch [Github](https://github.com/llSourcell/Build-an-AI-Startup-with-PyTorch)
-- First steps towards Deep Learning with pyTorch [Github](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning)
   
-### 4. Tensorflow Code
-- TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)
-- tensorflow2中文教程 [Github](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
-- Tensorflow2教程 [Github](https://zhuanlan.zhihu.com/c_1091021863043624960)
-- Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 [Github](https://github.com/ageron/handson-ml2)
-- TensorFlow 中文资源全集 [Gitee](https://gitee.com/fendouai/Awesome-TensorFlow-Chinese)
-- Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course [Github](https://github.com/ageron/tf2_course)
-- TensorFlow 2.0 深度学习开源书 [Github](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
-  
-### 5. Course
+### 3. Course
 - 斯坦福CS231n李飞飞计算机视觉 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001)
 - 统计机器学习 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1692004)
 - 机器学习导论 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1694003)
@@ -265,9 +236,40 @@ https://github.com/dsgiitr/d2l-pytorch)
 - NTU大学李宏毅最新机器学习课程(2019) [website](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 - UC伯克利最新深度强化学习课程 [website](http://rail.eecs.berkeley.edu/deeprlcourse/) [YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A) [bilibili](https://www.bilibili.com/video/av69455099/) [Github](https://github.com/berkeleydeeprlcourse/homework)
 - 微软-计算机视觉最佳实践、代码示例和相关文档 [Github](https://github.com/microsoft/ComputerVision)
-- 美国计算机名校例如MIT ，CMU ，有哪些公认的好课并且有课程讲义的，适合国内学生自学的？ [zhihu](https://www.zhihu.com/question/57532048)
 
 ---
+
+## Reinforcement Learning
+
+### 1. Documentation
+- reinforcement learning an introduction [Github](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+- Python强化学习实战_Sudharsan Ravichandiran [Github](https://github.com/AndyYue1893/Hands-On-Reinforcement-Learning-With-Python)
+- 强化学习圣经_Rich Sutton_中文书、英文电子书、代码 [Github](https://github.com/AndyYue1893/reinforcement-learning-an-introduction)
+- 强化学习精要_冯超 (从基础到前沿，附代码) [jd](https://item.jd.com/12344157.html)
+- OpenAI Spinning Up英文版、中文版 [zhihu](https://zhuanlan.zhihu.com/p/49087870)
+- David Silver强化学习公开课中文讲解及实践 [zhihu](https://zhuanlan.zhihu.com/reinforce)
+- 强化学习基础David Silver笔记（陈雄辉，南大，DiDi AI Labs）[zhihu](https://zhuanlan.zhihu.com/c_135909947)
+- Reinforcement Learning With Open AI TensorFlow and Keras Using Python_OpenAI(注重实战)  [baiduyunpan](https://pan.baidu.com/share/init?surl=nQpNbhkI-3WucSD0Mk7Qcg) [提取码](av5p)
+- 深度强化学习落地方法论 [zhihu](https://zhuanlan.zhihu.com/c_1186982555915599872)
+
+
+### 2. Papers and Algorithm
+- NeuronDance  [Github](https://github.com/AndyYue1893/DeepRL-1/tree/master/A-Guide-Resource-For-DeepRL)
+- DQN [paper](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
+- DDPG [paper](http://proceedings.mlr.press/v32/silver14.pdf)
+- A3C [paper](https://www.researchgate.net/publication/301847678_Asynchronous_Methods_for_Deep_Reinforcement_Learning)
+- 清华张楚珩博士(强化学习论文汇总) [zhihu](https://zhuanlan.zhihu.com/p/46600521)
+- papers with code [papers](https://www.paperswithcode.com/area/playing-games)  [Github](https://github.com/AndyYue1893/pwc)
+
+
+### 3. Course
+- 腾讯_周沫凡_强化学习、教程、代码 [bilibili](https://www.bilibili.com/video/av16921335?from=search&seid=7037144790835305588)  [个人主页](https://morvanzhou.github.io/)  [Github](https://github.com/AndyYue1893/Reinforcement-learning-with-tensorflow)
+- DeepMind_David Silver_UCL深度强化学习课程(2015)、PPT、笔记及代码   [bilibili](https://www.bilibili.com/video/av45357759?from=search&seid=7037144790835305588)  [zhihu](https://zhuanlan.zhihu.com/p/37690204)
+- 台大_李宏毅_深度强化学习(国语)课程(2018)、PPT、笔记   [bilibili](https://www.bilibili.com/video/av24724071?from=search&seid=7037144790835305588) [PPT](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html) [note](https://blog.csdn.net/cindy_1102/article/details/87904928)
+- Berkeley_Sergey Levine_CS285(294)深度强化学习(2019)、PPT、代码   [bilibili](https://www.bilibili.com/video/av69455099?from=search&seid=7037144790835305588)  [PPT](http://rail.eecs.berkeley.edu/deeprlcourse/)  [Github](https://github.com/berkeleydeeprlcourse/homework)
+
+---
+
   
 ## C/C++
 - C/C++面试基础知识总结 [Github](https://github.com/huihut/interview)
@@ -310,6 +312,39 @@ https://github.com/dsgiitr/d2l-pytorch)
 - 编程超能力入门班 [Blog](www.enginego.org)
   
 ---
+
+
+## Pytorch
+- pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
+- Offical pytorch examples [Github](https://github.com/pytorch/examples)
+- Offical pytorch tutorials [Github](https://github.com/pytorch/tutorials)
+- stanford-cs-230-deep-learning [Github](https://github.com/afshinea/stanford-cs-230-deep-learning)
+- practicalAI [Github](https://github.com/GokuMohandas/practicalAI)
+- PyTorch中文手册 [Github](https://github.com/zergtant/pytorch-handbook)
+- <深度学习框架PyTorch：入门与实践>的对应代码 [Github](https://github.com/chenyuntc/pytorch-book)
+- code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
+- Awesome-pytorch-list [Github](https://github.com/bharathgs/Awesome-pytorch-list)
+- <Pytorch模型训练实用教程>中配套代码 [Github](https://github.com/tensor-yu/PyTorch_Tutorial)
+- An unofficial styleguide and best practices summary for PyTorch [Github](https://github.com/IgorSusmelj/pytorch-styleguide)
+- fast.ai Computational Linear Algebra course [Github](https://github.com/fastai/numerical-linear-algebra)
+- Awesome-PyTorch-Chinese [Github](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
+- Build-an-AI-Startup-with-PyTorch [Github](https://github.com/llSourcell/Build-an-AI-Startup-with-PyTorch)
+- First steps towards Deep Learning with pyTorch [Github](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning)
+
+---
+
+  
+## Tensorflow
+- TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)
+- tensorflow2中文教程 [Github](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
+- Tensorflow2教程 [Github](https://zhuanlan.zhihu.com/c_1091021863043624960)
+- Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 [Github](https://github.com/ageron/handson-ml2)
+- TensorFlow 中文资源全集 [Gitee](https://gitee.com/fendouai/Awesome-TensorFlow-Chinese)
+- Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course [Github](https://github.com/ageron/tf2_course)
+- TensorFlow 2.0 深度学习开源书 [Github](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
+
+---
+
   
 ## Competition
 - [kaggle数据科学竞赛](https://www.kaggle.com/competitions)
