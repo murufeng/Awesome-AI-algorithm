@@ -9,13 +9,13 @@
   - [Github](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-github)
   - [牛客网](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-nowcoder)
   - [知乎](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-zhihu)
-  - [个人博客](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#4-blog)
+  - [博客](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#4-blog)
   - [微信公众号](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#5-wechat)
   - [其它](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#6-others)
 - [机器学习](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#machine-learning)
   - [面试](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-interview)
   - [资料](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-documentation)
-  - [代码实战](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-code)
+  - [Github代码](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-Coding)
 - [深度学习](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#deep-learning)
   - [面试](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-interview-1)
   - [资料](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-documentation-1)
@@ -148,7 +148,7 @@
 - 周志华《机器学习》手推笔记 [Github](https://github.com/Sophia-11/Machine-Learning-Notes)
 -  《Python 机器学习》 [Github](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
-### 3. Code
+### 3. Coding
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)
 - 100-Days-Of-ML-Code中文版 [Github](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 - Homemade Machine Learning [Github](https://github.com/trekhleb/homemade-machine-learning)
