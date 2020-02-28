@@ -1,6 +1,6 @@
 # Awesome-AI-algorithm
 
-> 人工智能算法方面的综合资料合集（持续更新中）
+> 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码（持续更新中）
 
 [![GitHub stars](https://img.shields.io/github/stars/murufeng/Awesome-AI-algorithm.svg?style=social&label=Stars)](https://github.com/murufeng/Awesome-AI-algorithm) [![GitHub forks](https://img.shields.io/github/forks/murufeng/Awesome-AI-algorithm.svg?style=social&label=Forks)](https://github.com/murufeng/Awesome-AI-algorithm) [![HitCount](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm.svg)](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm)
   
@@ -21,14 +21,15 @@
   - [资料](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-documentation-1)
   - [课程](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-course-1)
 - [强化学习](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#Reinforcement-Learning)
-  - [资料](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-documentation-2)
+  - [资料](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-Documentation)
   - [论文](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-papers-and-algorithm)
-  - [课程](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-course-2)
+  - [课程](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#3-Course-and-Code)
 - [C/C++](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#cc)
 - [Python](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#python)
 - [Pytorch](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#pytorch)
 - [TensorFlow](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#tensorflow)
 - [竞赛/比赛平台](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#competition)
+- [其他](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#others)
 ---
 ---
 
@@ -92,6 +93,7 @@
 - 算法与数据结构、机器学习、深度学习 [Blog](https://www.liwei.party/)
 
 ### 5. WeChat
+- 2020 AI算法岗春招汇总 & 面经大全来了！！！ [website](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247484630&idx=1&sn=29574cff482c2b90bd48f3000a1bb390&chksm=fc4ebe94cb3937821bc2c56583a0ca0f8154e1fb4b06a3b409a79752f7ccbe2dbcb23d634f29&token=336629150&lang=zh_CN#rd)
 - 1000 面试题，BAT 机器学习面试刷题宝典！ [website](https://mp.weixin.qq.com/s?__biz=MzU0OTU5OTI4MA==&mid=2247486469&idx=2&sn=14b701639794e67cc63bedea8d2870cb&chksm=fbac2d5accdba44c4930c42ee7c191d0a166c3b3cc8c5e2fa3efe6ed26a992b0cb6283a8114c&scene=0&xtrack=1&key=5121627df01c7147226b38275cec75014ec9b754942505b403947722cb8b7aea53b720546e71ea5d22312783c452de71448362f615081904c0c79cd401fb35fc5334f2a30b4f1ca1a7ddc764eea39116&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=UT934CWNmZoDZ1lVhvHOGEFisJUlIxDGPpY73e7nut1e18SYmUgrBd5XY3S4u28F)
 - 数据科学&机器学习基础面试题 [website](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247484547&idx=2&sn=1f9cfeee41f80623edc493d293d4e1b8&chksm=e870d5cedf075cd886afbee37b79c85dce16f5ae43d300331c5f29e0d64c32b030b621beddaa&scene=0&xtrack=1&key=96e38258b65ecb9b9b652831c3f84574b2f25e7020610c534b933a65b3b61a0cd4a0db2b54d14a128c5e7e8136e59893ae61ee9c06580040a3c7fab669f919f48e749ca1d0f8be9f7295ffed179a4acc&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=M%2Bx4I8699jpuE4n781eOB5axXkLS0Mu7Zrtx6Vi8JsVQhUxr6%2F6aCUmOC8WZybav)
 - 阿里巴巴计算机视觉算法实习生视频面试 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488083&idx=3&sn=499149282d197c1b68d3fa105a69e271&chksm=f9a260dcced5e9ca7a86741c90b5199251b4bf02b2279b314fa3302911b8d0c22e036dd7bb33&scene=21#wechat_redirect)
@@ -128,6 +130,7 @@
 - machine-learning-interview-questions [Github](https://github.com/Sroy20/machine-learning-interview-questions)
 - 机器学习与深度学习面试问题总结 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247486331&idx=1&sn=abc69ee44d932dd7d6bc4bbef82045c8&chksm=97ea211ea09da808a546c4a6f485f45289fea2e69cddc95aaf16f06ddfb9c428ecf9d259c980&scene=0&key=f7bb43d4492422e0472e06f4faf0076f9d9de975e8a73050e15cd63f1f549a060f9018009aa9f1f5f19aa37f1408ecb3ea2be5b8464b4eae89884e1d881c91ebef20c84ea9198fed470f36016f54c30a&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)
 - 机器学习面试复习资源 [Github](https://github.com/wangyuGithub01/Machine_Learning_Resources)
+- 机器学习面试算法梳理 [Blog](https://www.cnblogs.com/tornadomeet/p/3395593.html)
 
 ### 2. Documentation
 - 模式识别圣经-PRML(python) [Github](https://github.com/ctgk/PRML)
@@ -167,6 +170,7 @@
 - 自己整理的一点和深度学习相关的面试考点 [zhihu](https://zhuanlan.zhihu.com/p/48374690)
 
 ### 2. Documentation
+- 机器学习/计算机视觉/ NLP的论文及笔记 [Github](https://github.com/yassouali/ML_paper_notes)
 - 计算机视觉知识点总结 [zhihu](https://zhuanlan.zhihu.com/p/58776542)
 - awesome-deep-learning [Github](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)
@@ -203,7 +207,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 - 微软人工智能教育与学习共建社区 [Github](https://github.com/microsoft/ai-edu)
 - deep-learning-drizzle [Github](https://github.com/kmario23/deep-learning-drizzle)
 - pyimagesearch [Website](https://www.pyimagesearch.com/)
-- 机器学习/计算机视觉/ NLP的论文及笔记 [Github](https://github.com/yassouali/ML_paper_notes)
+
   
 ### 3. Course
 - 斯坦福CS231n李飞飞计算机视觉 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001)
@@ -215,7 +219,8 @@ https://github.com/dsgiitr/d2l-pytorch)
 - Convolutional Neural Networks [coursera](https://www.coursera.org/learn/convolutional-neural-networks)
 - Deep Learning and Computer Vision A-Z: OpenCV, SSD & GANs [udemy](https://www.udemy.com/course/computer-vision-a-z/)
 - 吴恩达的深度学习专项系列课程(Deep Learning Specialization) [Coursera](https://www.coursera.org/specializations/deep-learning) [163](https://mooc.study.163.com/smartSpec/detail/1001319001.htm/)
-- [CS231n](http://cs231n.stanford.edu/) [CS224n](http://web.stanford.edu/class/cs224n/)
+- [CS231n](http://cs231n.stanford.edu/)
+- [CS224n](http://web.stanford.edu/class/cs224n/)
 - 斯坦福公开课程：概率和统计'Probability and Statistics' [website](https://online.stanford.edu/courses/gse-yprobstat-probability-and-statistics)
 - MIT公开课线性代数'Linear Algebra' [website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - Fastai推出的2019年面向程序员的深度学习实战课程'Practical Deep Learning for Coders, v3' [website](https://course.fast.ai) [website](https://www.bilibili.com/video/av41718196/)
@@ -249,9 +254,8 @@ https://github.com/dsgiitr/d2l-pytorch)
 - OpenAI Spinning Up英文版、中文版 [zhihu](https://zhuanlan.zhihu.com/p/49087870)
 - David Silver强化学习公开课中文讲解及实践 [zhihu](https://zhuanlan.zhihu.com/reinforce)
 - 强化学习基础David Silver笔记（陈雄辉，南大，DiDi AI Labs）[zhihu](https://zhuanlan.zhihu.com/c_135909947)
-- Reinforcement Learning With Open AI TensorFlow and Keras Using Python_OpenAI(注重实战)  [baiduyunpan](https://pan.baidu.com/share/init?surl=nQpNbhkI-3WucSD0Mk7Qcg) [提取码](av5p)
+- Reinforcement Learning With Open AI TensorFlow and Keras Using Python_OpenAI(注重实战)  [BaiduYun](https://pan.baidu.com/share/init?surl=nQpNbhkI-3WucSD0Mk7Qcg) [提取码](av5p)
 - 深度强化学习落地方法论 [zhihu](https://zhuanlan.zhihu.com/c_1186982555915599872)
-
 
 ### 2. Papers and Algorithm
 - NeuronDance  [Github](https://github.com/AndyYue1893/DeepRL-1/tree/master/A-Guide-Resource-For-DeepRL)
@@ -261,8 +265,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 - 清华张楚珩博士(强化学习论文汇总) [zhihu](https://zhuanlan.zhihu.com/p/46600521)
 - papers with code [papers](https://www.paperswithcode.com/area/playing-games)  [Github](https://github.com/AndyYue1893/pwc)
 
-
-### 3. Course
+### 3. Course and Code
 - 腾讯_周沫凡_强化学习、教程、代码 [bilibili](https://www.bilibili.com/video/av16921335?from=search&seid=7037144790835305588)  [个人主页](https://morvanzhou.github.io/)  [Github](https://github.com/AndyYue1893/Reinforcement-learning-with-tensorflow)
 - DeepMind_David Silver_UCL深度强化学习课程(2015)、PPT、笔记及代码   [bilibili](https://www.bilibili.com/video/av45357759?from=search&seid=7037144790835305588)  [zhihu](https://zhuanlan.zhihu.com/p/37690204)
 - 台大_李宏毅_深度强化学习(国语)课程(2018)、PPT、笔记   [bilibili](https://www.bilibili.com/video/av24724071?from=search&seid=7037144790835305588) [PPT](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html) [note](https://blog.csdn.net/cindy_1102/article/details/87904928)
@@ -294,6 +297,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 ---
   
 ## Python
+- Python 开源项目大集合，跨 15 个领域，181 个项目 [Github](https://github.com/mahmoud/awesome-python-applications)
 - 关于Python的面试题1 [Github](https://github.com/taizilongxu/interview_python)
 - 关于Python的面试题2 [Github](https://github.com/kenwoodjw/python_interview_question)
 - LeetCode, HackRank, 剑指offer, classic algorithm implementation (Python) [Github](https://github.com/apachecn/awesome-algorithm)
@@ -365,4 +369,21 @@ https://github.com/dsgiitr/d2l-pytorch)
 - [Data Science Challenges](https://www.datasciencechallenge.org/)
   
 ---
+
+## Others
+- Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese)
+- 个人简历模板 [Github](https://github.com/ikym/resume)
+- 程序员简历模板系列 [Github](https://github.com/geekcompany/ResumeSample)
+- 如何写一份专业的技术简历 [Website](https://mp.weixin.qq.com/s?__biz=MzA5NDk4NDcwMw==&mid=2651388719&idx=1&sn=84ec4d342f85199b7f4dd5bdaa535949&chksm=8bba1bbfbccd92a9425c7dd0efdf4924c0308bb62ee6808f202c7a8f52fd6b78e43ed954bbb9&scene=0&xtrack=1&key=ff1b1d089c15295c18c4772c5513870b3f444ddfc7eedefb34d50858e7be4c2d678cac2b24aa0356f577aa7c34a5bacdfdcac62bace0a0b7ec262694292724fd25f4c1ec3d115ad041ea0fc899723239&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=AzjSleucIgNxHjJEKgZIQkc%3D&pass_ticket=isK%2FwATeORDKA144xaM2%2FZkXRQIChncFMP25btSedNMCRsZBUEgl7YxoVEFxq8eQ)
+- awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- Startups about artificial intelligence. (DM, ML, NLP, CV...) [Github](https://github.com/lipiji/AIStartups)
+- Awesome Programming Books [Github](https://github.com/majikarp/awesome-programming-books#id-section2)
+- 清华大学计算机系课程攻略 [Github](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- 北京大学课程资料整理 [Github](https://github.com/lib-pku/libpku)
+- 中国科学技术大学课程资源 [Github](https://github.com/USTC-Resource/USTC-Course)
+- 上海交通大学课程资料分享 [Github](https://github.com/CoolPhilChen/SJTU-Courses/)
+- 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles)
+
+
+
 
