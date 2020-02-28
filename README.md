@@ -36,6 +36,7 @@
 ## Algorithm Interview
 ### 1. Github
 - 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information)
+- 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案 [Github](https://github.com/murufeng/interview_internal_reference)
 - 算法工程师面试 [Github](https://github.com/PPshrimpGo/AIinterview)
 - 算法/深度学习/NLP面试笔记 [Github](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 - 2019届秋招面经集合 [Github](https://github.com/zslomo/2019-Autumn-recruitment-experience)
@@ -210,6 +211,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 
   
 ### 3. Course
+- MIT 深度学习 [Github](https://github.com/lexfridman/mit-deep-learning)
 - 斯坦福CS231n李飞飞计算机视觉 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001)
 - 统计机器学习 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1692004)
 - 机器学习导论 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1694003)
@@ -297,6 +299,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 ---
   
 ## Python
+- cracking the coding interview [Github](https://github.com/keyejia/Cracking-the-coding-interview-in-Python)
 - Python 开源项目大集合，跨 15 个领域，181 个项目 [Github](https://github.com/mahmoud/awesome-python-applications)
 - 关于Python的面试题1 [Github](https://github.com/taizilongxu/interview_python)
 - 关于Python的面试题2 [Github](https://github.com/kenwoodjw/python_interview_question)
@@ -339,13 +342,13 @@ https://github.com/dsgiitr/d2l-pytorch)
 
   
 ## Tensorflow
+- TensorFlow 2.0 深度学习开源书 [Github](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 - TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)
 - tensorflow2中文教程 [Github](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
 - Tensorflow2教程 [Github](https://zhuanlan.zhihu.com/c_1091021863043624960)
 - Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 [Github](https://github.com/ageron/handson-ml2)
 - TensorFlow 中文资源全集 [Gitee](https://gitee.com/fendouai/Awesome-TensorFlow-Chinese)
 - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course [Github](https://github.com/ageron/tf2_course)
-- TensorFlow 2.0 深度学习开源书 [Github](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 
 ---
 
