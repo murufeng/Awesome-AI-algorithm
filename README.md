@@ -1,10 +1,13 @@
 # Awesome-AI-algorithm
 
 > 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码（持续更新中）
+> 近期将更新一大波互联网大厂实习内推、校招相关信息（敬请关注！）
 
 [![GitHub stars](https://img.shields.io/github/stars/murufeng/Awesome-AI-algorithm.svg?style=social&label=Stars)](https://github.com/murufeng/Awesome-AI-algorithm) [![GitHub forks](https://img.shields.io/github/forks/murufeng/Awesome-AI-algorithm.svg?style=social&label=Forks)](https://github.com/murufeng/Awesome-AI-algorithm) [![HitCount](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm.svg)](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm)
   
 ## 资料目录
+- [大厂内推：实习/春招/社招]
+  - [微软--自然语言处理实验室(招聘科研实习生)](https://mp.weixin.qq.com/s/VFS3suol7Rph7SFGVO24QA)
 - [算法面试](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#Algorithm-Interview)
   - [Github](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#1-github)
   - [牛客网](https://github.com/murufeng/Awesome-AI-algorithm/blob/master/README.md#2-nowcoder)
